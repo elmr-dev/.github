@@ -2,13 +2,11 @@
 
 **Ham radio software, rebuilt for everywhere.**
 
-## Projects
+A lot of good amateur-radio software got stranded — written years ago, for one OS,
+hard to install and harder to contribute to. elmr rebuilds the everyday tools to
+run anywhere, install in seconds, and stay open to anyone who wants in.
 
-- **[morse](https://github.com/elmr-dev/morse)** — browser CW decoder · [morse.elmr.dev](https://morse.elmr.dev)
-
-## Links
-
-[elmr.dev](https://elmr.dev) · [Discord](https://discord.elmr.dev) · [`@elmr-dev`](https://www.npmjs.com/org/elmr-dev)
+[elmr.dev](https://elmr.dev) · [Discord](https://discord.elmr.dev)
 
 ---
 
